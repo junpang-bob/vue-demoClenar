@@ -1,0 +1,23 @@
+<template>
+    <div>
+        <table>
+            <tr>
+                <td>星期一</td>
+                <td>星期二</td>
+                <td>星期三</td>
+                <td>星期四</td>
+                <td>星期五</td>
+                <td>星期六</td>
+                <td>星期日</td>
+            </tr>
+        </table>
+    </div>
+</template>
+<script>
+export default {
+    
+}
+</script>
+<style lang="scss">
+    
+</style>
